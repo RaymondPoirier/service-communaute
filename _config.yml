@@ -11,5 +11,5 @@ include:
 theme: jekyll-theme-tactile
 show_downloads: false
 
-title: "Service de Consultation en IA et données"
-description: "Service de consultation en intelligence artificielle et données de l'Institut Intelligence et Données de l'université Laval. Réservé aux membres pour le moment."
+title: "Service de consultation en IA et données (SCIAD)"
+description: "Service de consultation en intelligence artificielle et données de l'Institut intelligence et données de l'université Laval. Ce service est réservé aux chercheurs membres et collaborateurs de l'Institut (et leurs étudiant.e.s) pour le moment."
