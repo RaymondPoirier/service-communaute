@@ -1,12 +1,22 @@
-## Service de Consultation en IA et Données de l'IID
+## Service de consultation en IA et données de l'IID
 
 ### Introduction
 
-Bienvenue sur le site du Service de consultation en intelligence et données (SCID) de l'Université Laval.  Le SCID met à la disposition de la communauté scientifique les connaissances et l'expertise des professionnels de recherche de l’[Institut Intelligence et Données (IID)](https://iid.ulaval.ca).
+Vous avez besoin de connaissances et d’expertise en intelligence artificielle et en science des données dans le cadre de projets de recherche? Profitez du soutien du Service de consultation en IA et données (SCIAD) de l’Université Laval. 
 
-Nous offrons nos services aux chercheurs membres ou collaborateurs de l'IID (et leurs étudiants) afin de les aider à choisir et utiliser correctement les méthodes et outils de modélisation de données appropriés, revoir le code développé, interpréter et présenter les résultats de ces méthodes et outils, participer à l'implantation et à la mise en oeuvre de nouvelles méthodes d'apprentissage automatique ou encore pour effectuer l'analyse de données expérimentales non structurées.
+Mis en place en septembre 2022 par l’Institut intelligence et données (IID) de l’Université Laval, le SCIAD permet aux étudiant.e.s lié.e.s à des chercheur.e.s membres et collaborateurs de l’Institut d'accéder à un soutien offert par des professionnels ou des auxiliaires de recherche (étudiant.e.s aux cycles supérieurs) afin de les aider dans leur usage d’algorithmes d’intelligence artificielle (IA) ou de traitement de données dans le cadre d’un projet ou d’une initiative de recherche réalisé à l’Université Laval. 
 
-Pour de la modélisation mathématique ou statistique plus classique, nous référons naturellement les requérants vers le [Service de Consultation Statistique de l'Université Laval](https://scs.mat.ulaval.ca/accueil/).
+Parmi les services offerts par le SCIAD : 
+> Analyse de besoin
+> Audit et révision de code informatique
+> Validation de méthodologie en IA et traitement de données
+> Reformulation de la problématique dans un langage approprié 
+> Service-conseil pour le choix de méthodes ou d’outils à utiliser dans le projet
+> Service-conseil quant aux formations disponibles et pertinentes à explorer
+
+Chaque demande donne accès à un bloc de cinq (5) heures de services conseils. À noter : les services du SCIAD n’incluent pas l’analyse de données, ni ne doit servir à adresser des problématiques liées à des travaux de cours ou des évaluations.
+
+Si vous êtes plutôt à la recherche de services en modélisation mathématique ou statistique plus classique, faites plutôt votre demande auprès du [Service de Consultation Statistique de l'Université Laval](https://scs.mat.ulaval.ca/accueil/).
 
 Consultez les différentes sections ci dessous afin d'obtenir la description complète de nos services et la tarification.
 
